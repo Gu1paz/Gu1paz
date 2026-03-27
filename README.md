@@ -29,7 +29,6 @@
 - Desenvolver projetos práticos do zero  
 - Me tornar um desenvolvedor consistente e independente  
 
----
 
 ## 📫 Contato
 - Email: guihermepaz520@gmail.com
