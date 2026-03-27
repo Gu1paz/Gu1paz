@@ -5,7 +5,6 @@
 ⚙️ Aprendendo C++  
 🧠 Conhecimento básico em lógica de programação  
 
----
 
 ## 🚀 Tecnologias
 
@@ -14,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
----
 
 ## 📚 Em aprendizado
 - Python (fundamentos)  
