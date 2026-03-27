@@ -22,7 +22,6 @@
 - Lógica de programação  
 - Estruturas básicas e algoritmos  
 
----
 
 ## 🎯 Objetivos
 - Evoluir minha lógica e capacidade de resolver problemas  
