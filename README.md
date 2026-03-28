@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Guilherme
 
 💻 Estudante de Desenvolvimento de Sistemas  
-🐍 Aprendendo Python  
 ⚙️ Aprendendo C++  
 🧠 Conhecimento básico em lógica de programação  
 
