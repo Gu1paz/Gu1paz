@@ -2,7 +2,6 @@
 
 * Estudante de Desenvolvimento de Sistemas
 * Foco em Lógica de Programação, C++, Python e Banco de Dados
-* Praticando Inglês Técnico para Ambientes de TI
 
 ---
 
