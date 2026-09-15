@@ -21,7 +21,6 @@
 * Programação em C++ (Lógica e Algoritmos)
 * Fundamentos e automação com Python
 * Modelagem de Banco de Dados e Linguagem SQL
-* Arquitetura de APIs Web (Métodos HTTP, Formato JSON, Status Codes)
 * Versionamento de Código com Git e GitHub
 
 ---
