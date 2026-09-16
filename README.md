@@ -26,7 +26,6 @@
 
 ### 🎯 Objetivos
 
-* 🏗️ Desenvolver aplicações desktop estruturadas em Python com arquitetura MVC e padrão DAO.
 * 🔗 Criar projetos integradores completos com interface gráfica e integração a bancos MySQL.
 * ⚡ Aprimorar a resolução de problemas, modularização de código e lógica estruturada.
 
